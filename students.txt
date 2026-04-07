@@ -1,0 +1,4 @@
+muskan : 89
+jcnksdc : 9
+muskan : 45
+pari : 67
